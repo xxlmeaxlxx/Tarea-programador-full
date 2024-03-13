@@ -1,0 +1,43 @@
+/*
+Propiedades position:
+
+-Static
+-Relative
+-Absolute
+-Fixed
+-Sticky
+-z-index
+
+*/
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+
+}
+
+
+
+.cabecera{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 2em 0;
+}
+
+/*
+.caja-1 {
+    position: ;
+    top:  ;
+    left: ;
+    bottom:  ;
+    right: ;
+    z-index:-1 ;
+}
+
+.caja-3{
+    position: relative;
+}
+
+*/

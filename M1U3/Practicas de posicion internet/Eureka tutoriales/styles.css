@@ -1,0 +1,53 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor {
+    /*VH es una unidad de medida, VIEWPORT HEIGTH (ancho de ventana grafica)*/
+    margin: 50vh auto;
+    border: 5px solid black;
+    width: 300px;
+}
+
+.cabecera {
+    background-color: black;
+    text-align: center;
+    padding: 2em 0;
+    color: white;
+}
+
+.body{
+    padding-top: 14em;
+}
+.caja {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: white;
+}
+
+.caja-1 {
+    background-color: red;
+}
+
+.caja-2{
+    background-color: greenyellow;
+}
+
+.caja-3{
+    background-color: pink;
+}
+
+.caja-4{
+    background-color: skyblue;
+}
+
+.caja-5{
+    background-color: orange;
+}
+
+.caja-6{
+    background-color: grey;
+}

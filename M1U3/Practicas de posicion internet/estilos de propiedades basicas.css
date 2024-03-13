@@ -1,0 +1,18 @@
+
+/*      tipos de propiedades para un parrafo enlazado a un archivo css,
+        practico: font-family, font-size, text-align, border, height, width,
+        backgroung-color, margin, color  EN ESTE EJEMPLO NO ESTOY EN EL POSICIONAMIENTO */
+
+p{
+    color: red;
+    font-family: arial;
+    font-size: 40px;
+    text-align:justify;
+    background-color: blue;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+
+}
+
